@@ -2,19 +2,30 @@
 
 
 /* Give the header element a background color */
-
+header {
+  background-color: pink
+}
 
 /* Center everything in the header and footer */
-
+header, footer {
+  text-align: center
+}
 
 /* All text to Helvetica */
-
+body {
+  font-family: Helvetica 
+}
 
 /* All links default color is gray*/
+a {
+  color: gray
+}
 
 
 /* All links on hover color red*/
-
+a:hover {
+  color:red
+}
 
 /* All Links visted color black*/
 
